@@ -16,7 +16,7 @@ public class main extends JavaPlugin {
 	public static final String ANSI_PURPLE = "\u001B[35m";
 	public static final String ANSI_CYAN = "\u001B[36m";
 	public static final String ANSI_WHITE = "\u001B[37m";
-
+//test commit
 	public void onEnable() {
 		System.out.println("");
 		System.out.println(ANSI_GREEN + "PlayerSpeed 1.0" + ANSI_RESET + " - Running on Spighot");
