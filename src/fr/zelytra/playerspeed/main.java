@@ -19,7 +19,7 @@ public class main extends JavaPlugin {
 
 	public void onEnable() {
 		System.out.println("");
-		System.out.println(ANSI_GREEN + "PlayerSpeed 1.0" + ANSI_RESET + " - Running on Spighot");
+		//System.out.println(ANSI_GREEN + "PlayerSpeed 1.0" + ANSI_RESET + " - Running on Spighot");
 		System.out.println(ANSI_GREEN + "PlayerSpeed" + ANSI_RESET + " is UP !");
 		System.out.println("");
 		getCommand("ping").setExecutor(new ping());
