@@ -11,10 +11,7 @@ PlayerSpeed is a minecraft plugin. It permit you to change the creative player f
 # Ideas :
 If you need more options or commands to add in the plugins just tell me !
 
-# About Me:
-I'm a random ingenier student who is programming in his lost time...
 
-Discord : Zelytra#3159
 
 
 
