@@ -1,0 +1,13 @@
+name: PlayerSpeed
+version: 1.0
+main: fr.zelytra.playerspeed.PlayerSpeed
+api-version: 1.16
+
+commands:
+  speed:
+    permission: playerspeed.speed
+    description: Change fly speed
+  nightvision:
+    permission: playerspeed.nightvision
+    aliases: nv
+    description: Give night vision
